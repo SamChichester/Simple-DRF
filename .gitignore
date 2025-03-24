@@ -1,2 +1,5 @@
 venv/
 backend/
+dist/
+simple_drf/simple_drf.egg-info
+__pycache__
