@@ -2,6 +2,8 @@
 
 A Python package for quicker API development in Django.
 
+[https://pypi.org/project/simple-drf/1.0.0/](https://pypi.org/project/simple-drf/1.0.0/)
+
 ## Table of Contents
 
 - [Description](#description)
